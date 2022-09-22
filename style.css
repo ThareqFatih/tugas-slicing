@@ -1,0 +1,21 @@
+body {
+  min-height: 2500px;
+  background-image: url("img/slicing.jpeg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.jumbotron {
+  padding-top: 6rem;
+}
+section {
+  padding-top: 5rem;
+}
+.socials {
+  list-style-type: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+footer ul li a {
+  padding: 5px;
+}
